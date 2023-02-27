@@ -5,6 +5,9 @@ form{
     width: 50%;
     margin: auto;
 }
+body{
+    background-color: aqua;
+}
 #enviar {
     width: 15%;
     margin: auto;
@@ -21,10 +24,16 @@ form{
 #email1{
         border-style: solid;
 }
+#password{
+    border-style: solid;
+}
 #text1{
     border-style: solid;
 }
 #nome1 :focus{
     outline: 0;
     border-style: groove;
+}
+input{
+    margin: 10px;
 }
