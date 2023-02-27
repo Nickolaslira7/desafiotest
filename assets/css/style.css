@@ -5,3 +5,26 @@ form{
     width: 50%;
     margin: auto;
 }
+#enviar {
+    width: 15%;
+    margin: auto;
+}
+#button{
+    background-color:aqua;
+    width: 20%;
+    margin:auto ;
+
+}
+#submit:hover{
+    background-color:aqua;
+}
+#email1{
+        border-style: solid;
+}
+#text1{
+    border-style: solid;
+}
+#nome1 :focus{
+    outline: 0;
+    border-style: groove;
+}
